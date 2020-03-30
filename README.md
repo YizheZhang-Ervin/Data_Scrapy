@@ -1,0 +1,2 @@
+# EZScrapy
+Scrapy
